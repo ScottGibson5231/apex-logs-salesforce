@@ -4,4 +4,6 @@ This is a tool for logging in Apex code. It is different than other examples bec
 as opposed to creating logs within Salesforce. The reason for this is that Salesforce storage is expensive, and it can be
 a lot of work to build out functionality that is standard in external tools like Azure.
 
+Salesforce development org: https://ddn0000014sqnmae-dev-ed.lightning.force.com/lightning/page/home
+
 There is an external implementation using .NET and Azure found here: https://github.com/ScottGibson5231/apex-logs-external
